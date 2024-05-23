@@ -13,19 +13,15 @@ A dynamic and interactive quiz application built with React. This project demons
 - **Score Tracking:** Keep track of user scores and display results at the end of the quiz.
 - **Customization:** Easily add or modify questions.
 
-## Demo
-
-Check out the live demo of the React Quiz [here](https://your-demo-link.com).
-
 ## Screenshots
 
-![Quiz Start](https://via.placeholder.com/600x400.png?text=Quiz+Start+Screen)
+![Quiz Start](assets/images/Screenshot 2024-05-23 155053)
 *Quiz Start Screen*
 
-![Quiz Question](https://via.placeholder.com/600x400.png?text=Quiz+Question+Screen)
+![Quiz Question](assets/images/Screenshot 2024-05-23 155042)
 *Quiz Question Screen*
 
-![Quiz Results](https://via.placeholder.com/600x400.png?text=Quiz+Results+Screen)
+![Quiz Results](assets/images/Screenshot 2024-05-23 155214)
 *Quiz Results Screen*
 
 ## Installation
@@ -81,4 +77,21 @@ Questions are stored in a JSON file (`src/questions.json`). To add or modify que
         "answer": "Mars"
     }
 ]
+
+## Acknowledgements
+
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [Create React App](https://create-react-app.dev/): A tool that sets up a modern web app by running one command.
+- [OpenAI GPT](https://openai.com/): For providing insights and assistance during the development process.
+- [The Ultimate React Course on Udemy](https://example.com/): For the inspiration and learning resources provided.
+
+## Contact
+
+For any inquiries or issues, please contact:
+
+- **Name:** Shrey
+- **Email:** [shreytolasaria4297@gmail.com](mailto:shreytolasaria4297@gmail.com)
+- **GitHub:** [Shrey0207](https://github.com/Shrey0207)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/shrey-tolasaria-176381231/)
+
 
