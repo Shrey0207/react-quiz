@@ -2,7 +2,7 @@
 
 # React Quiz
 
-![React Quiz](https://via.placeholder.com/728x90.png?text=React+Quiz+Banner)
+![React Quiz](assets/images/Screenshot%202024-05-23%20155053.png)
 
 A dynamic and interactive quiz application built with React. This project demonstrates how to create a quiz application with React, including state management and component-based architecture.
 
@@ -15,13 +15,13 @@ A dynamic and interactive quiz application built with React. This project demons
 
 ## Screenshots
 
-![Quiz Start](assets/images/Screenshot 2024-05-23 155053)
+![Quiz Start](assets/images/Screenshot%20(71).png)
 *Quiz Start Screen*
 
-![Quiz Question](assets/images/Screenshot 2024-05-23 155042)
+![Quiz Question](assets/images/Screenshot%202024-05-23%20155042.png)
 *Quiz Question Screen*
 
-![Quiz Results](assets/images/Screenshot 2024-05-23 155214)
+![Quiz Results](assets/images/Screenshot%202024-05-23%20155214.png)
 *Quiz Results Screen*
 
 ## Installation
@@ -77,21 +77,21 @@ Questions are stored in a JSON file (`src/questions.json`). To add or modify que
         "answer": "Mars"
     }
 ]
+```
 
-## Acknowledgements
+### Acknowledgements
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Create React App](https://create-react-app.dev/): A tool that sets up a modern web app by running one command.
 - [OpenAI GPT](https://openai.com/): For providing insights and assistance during the development process.
 - [The Ultimate React Course on Udemy](https://example.com/): For the inspiration and learning resources provided.
 
-## Contact
+### Contact
 
 For any inquiries or issues, please contact:
 
 - **Name:** Shrey
 - **Email:** [shreytolasaria4297@gmail.com](mailto:shreytolasaria4297@gmail.com)
 - **GitHub:** [Shrey0207](https://github.com/Shrey0207)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/shrey-tolasaria-176381231/)
-
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shrey-tolasaria-176381231/)
 
